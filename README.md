@@ -40,9 +40,12 @@ Psycopg2
     
 # Usage 
 
+Enter your crypto currency
+
 ![image](https://user-images.githubusercontent.com/74649499/142732838-18cb79ba-5555-4132-aa97-a5dbc921792f.png)
 
+Get news and summarize news
  
- ![image](https://user-images.githubusercontent.com/74649499/142732844-c780a99b-f6ec-406f-b90d-15cca805dea3.png)
+![image](https://user-images.githubusercontent.com/74649499/142732844-c780a99b-f6ec-406f-b90d-15cca805dea3.png)
 
 
