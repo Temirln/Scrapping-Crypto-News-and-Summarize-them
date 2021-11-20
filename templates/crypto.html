@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block tab %}Assignment 4{% endblock %}
+{% block title %}<h1 class='text-center'>Web Scraping Cryptocurrency</h1>{% endblock %}
+{% block content %}
+
+    <div class="row g-3 pt-5 p-1">
+        <div class="col">
+            <h1 class="text-center">{{title.upper()}} NEWS</h1>
+        </div>
+        <div class="col">
+            <h1 class="text-center">Summarized News</h1>
+        </div>
+    </div>
+
+
+
+    {% for result in rev %}
+        <div class="row g-3 p-2">
+            <div class="col p-3">    
+                <h4 class="bg-dark text-warning p-4" style="border-radius: 30px;">{{result[1]}}</h4>
+            </div>
+            <div class="col p-3 ">
+                <h4 class="h-100 bg-dark text-warning p-4" style="border-radius: 30px;">{{result[0]}}</h4>
+            </div>
+        </div>
+    {% endfor %}
+
+{% endblock %}
