@@ -2,6 +2,11 @@
  
 assignment implemented by Group SE-2003(Dosymkhan Usen, Kalamkas Agadilova , Toleubekov Temirlan)
 
+# Purpose
+
+    The project should analyze the news page of the coin, the name of which was transmitted through the input on the web page. Then all the paragraphs are added to the database and display the summarized paragraphs using the hugging face on the website page.
+
+
 # Installing
 
     git clone https://github.com/Temirln/Scrapping-Crypto-News-and-Summarize-them.git
@@ -42,7 +47,7 @@ Psycopg2
 
 Enter your crypto currency
 
-![image](https://user-images.githubusercontent.com/74649499/142732838-18cb79ba-5555-4132-aa97-a5dbc921792f.png)
+    ![image](https://user-images.githubusercontent.com/74649499/142732838-18cb79ba-5555-4132-aa97-a5dbc921792f.png)
 
 Get news and summarize news
  
