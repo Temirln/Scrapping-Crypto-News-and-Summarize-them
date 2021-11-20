@@ -12,11 +12,6 @@ Final Project implemented by Group SE-2003(Dosymkhan Usen, Kalamkas Agadilova , 
 
     git clone https://github.com/Temirln/Scrapping-Crypto-News-and-Summarize-them.git 
     
-
-# Libraries
-
-Install and update using `pip`_:
-
 First Create Virtual Envirement
 
     python -m venv envirement
@@ -24,6 +19,11 @@ First Create Virtual Envirement
 Then you can just download all packages using this command 
 
     pip install -r requirements.txt
+    
+
+# Libraries
+
+Install and update using `pip`_:
 
 Flask (https://flask.palletsprojects.com/en/2.0.x/)
 
