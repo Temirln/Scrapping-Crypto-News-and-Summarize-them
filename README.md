@@ -4,8 +4,10 @@ Final Project implemented by Group SE-2003(Dosymkhan Usen, Kalamkas Agadilova , 
 
 # Purpose
 
-    The project should analyze the news page of the coin, the name of which was transmitted through the input on the web page.
-    Then all the paragraphs are added to the database and display the summarized paragraphs using the hugging face on the website page.
+    The project should analyze the news page of the coin, 
+    the name of which was transmitted through the input on the web page.
+    Then all the paragraphs are added to the database and display 
+    the summarized paragraphs using the hugging face on the website page.
 
 
 # Installing
