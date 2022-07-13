@@ -25,17 +25,28 @@ Then you can just download all packages using this command
 
 Flask (https://flask.palletsprojects.com/en/2.0.x/)
 
-Requests (https://pypi.org/project/requests/)
+    pip install Flask
 
+Requests (https://pypi.org/project/requests/)
+    
+    pip install requests
+    
 Beautifulsoup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-Flask-SQLAlchemy (https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+    pip install beautifulsoup4
 
+Flask-SQLAlchemy (https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+        
+    pip install Flask-SQLAlchemy
+    
 Huggingface
 
     pip install transformers
     pip install tensorflow
+
 Psycopg2
+    
+    pip install psycopg2
     
 # Usage 
 
